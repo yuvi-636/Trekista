@@ -1,0 +1,299 @@
+<resources>
+    <!-- UI strings -->
+    <string name="app_name" translatable="false">Trekista</string>
+    <string name="category_name_City_Overview" translatable="false">Karnataka</string>
+    <string name="category_name_Restaurant" translatable="false">Himachal</string>
+    <string name="category_name_Rajwada_Hotel" translatable="false">North East</string>
+    <string name="category_name_Historical" translatable="false">Tamil Nadu</string>
+    <string name="item_hightlight_txt" translatable="false">Highlight</string>
+    <string name="intent_extra_item_title">PLACE_TITLE</string>
+
+    <string name="Shiva_moga">Shimoga Waterfall</string>
+    <string name="World_Trade_Park_location">Shivamoga</string>
+    <string-array name="World_Trade_Park_highlights">
+        <item>
+Shivamogga, also known as Shimoga, is a picturesque city located in the state of Karnataka, India.</item>
+        <item>It is renowned for its lush greenery, serene landscapes, and vibrant culture</item>
+        <item>Rice Bowl of Karnataka</item>
+        <item>The Tunga River, a major tributary of the Tungabhadra River, originates in the Western Ghats near Shimoga.</item>
+        <item>Preferred month: October-February.</item>
+        <item>640 meter(2100-ft) from sea level.</item>
+    </string-array>
+     <string name="World_Trade_Park_provider">Trekista</string>
+
+
+    <string name="Yana">Yana Caves</string>
+    <string name="Abhaneri_Stepwall_location">Yana,Karnataka</string>
+    <string-array name="Abhaneri_Stepwall_highlights">
+        <item>Yana, located in Karnataka, is renowned for its unique rock formations and is a popular destination for trekking and adventure enthusiasts.</item>
+        <item>The trek to Yana offers breathtaking views of the surrounding forests and hills, making it a picturesque destination for nature lovers.</item>
+        <item> Yana is also a pilgrimage site, with a cave temple dedicated to Lord Shiva located at the base of the rock formations. Many trekkers visit the temple as part of their trekking experience.</item>
+        <item>Preferred month: Rainy season.</item>
+        <item>Elevation:380 meter(1247-ft) from sea level.</item>
+    </string-array>
+    <string name="Abhaneri_Stepwall_provider">Trekista</string>
+
+
+    <string name="Agumbe">Agumbe</string>
+    <string name="Galta_ji_location">Trithahalli, Karnataka</string>
+    <string-array name="Galta_ji_highlights">
+        <item>Gumbe, Karnataka, is renowned for its picturesque hill station, offering stunning views and a peaceful atmosphere.</item>
+        <item>The region is known for the ancient Gumbeeshwara Temple, its historical significance attracts visitors interested in exploring its heritage.</item>
+        <item>Preferred month: October-February.</item>
+        <item>Elevation:300 meter (984-ft) from sea level.</item>
+    </string-array>
+    <string name="Galta_ji_provider">Trekista</string>
+
+
+
+    <string name="Kudre">Kudremukh</string>
+    <string name="birla_Mandir_location">Kalasa, Karnataka</string>
+    <string-array name="birla_Mandir_highlights">
+        <item> Kudremukh is situated in the Western Ghats range of Karnataka, about 95 kilometers (59 miles) from the city of Mangalore.</item>
+        <item>Kudremukh is also home to the Kudremukh National Park, a UNESCO World Heritage Site known for its conservation efforts and pristine natural beauty.</item>
+        <item>The landscape of Kudremukh is characterized by rolling hills, lush forests, grasslands, and streams, making it a picturesque destination for nature lovers.</item>
+        <item>Preferred month:October-February or Rainy season.</item>
+        <item>Elevation:1894 meter(6,114-ft) from sea level.</item>
+    </string-array>
+    <string name="vu">Trekista</string>
+
+
+
+    <string name="Kumara">Kumara Parvatha</string>
+    <string name="Akshardham_location">West Karnataka</string>
+    <string-array name="Akshardham_highlights">
+        <item>Kumara Parvatha, also known as Pushpagiri, is located in the Western Ghats of Karnataka, near the town of Somwarpet in the Kodagu (Coorg) district.</item>
+        <item>Trekkers are required to obtain permits from the Forest Department before starting the trek, as Kumara Parvatha is located within the Pushpagiri Wildlife Sanctuary.</item>
+        <item>Preferred month: Monsoon season.</item>
+        <item>Elevation:1,712 meter(5,617-ft) from sea level.</item>
+    </string-array>
+    <string name="Akshardham_provider">Trekista</string>
+
+
+
+    <string name="Dagge">Kotte Dagge</string>
+    <string name="Central_Park_location">Beladi, Karnataka</string>
+    <string-array name="Central_Park_highlights">
+        <item> Kote Dagge is located near Dharmasthala in the Dakshina Kannada district of Karnataka, India.
+        </item>
+        <item>The trek to Kote Dagge is known for its scenic beauty, with lush greenery, waterfalls, and the peaceful surroundings of the Western Ghats.</item>
+        <item>There are no accommodation facilities available at Kote Dagge, so it is advisable to carry tents and camping equipment if planning to stay overnight.</item>
+        <item>It is also recommended to trek in groups and follow the instructions of local guides.</item>
+        <item>Preferred month:October-February</item>
+        <item>Elevation:800 meter(2,625-ft) from sea level.</item>
+    </string-array>
+    <string name="Central_Park_provider">Trekista</string>
+
+
+
+    <string name="beaskund">Beas Kund</string>
+    <string name="Rajasthani_Food_location">Manali</string>
+    <string-array name="Rajasthani_Food_highlights">
+        <item>Location: Starts from the Solang Valley near Manali and leads to the source of the Beas River, the Beas Kund.</item>
+        <item>Duration: Typically a 2-3 day trek.</item>
+        <item>Altitude:Approximately 3,700 meters (12,139 feet).</item>
+        <item>Preferred month: May to October, when the weather is pleasant.</item>
+    </string-array>
+    <string name="Rajasthani_Food_provider">Trekista</string>
+
+    <string name="Hampta">Hampta Pass</string>
+    <string name="BBQ_Nation_location">Lahaul valley</string>
+    <string-array name="BBQ_Nation_highlights">
+        <item>Location: Starts from Manali and crosses the Hampta Pass into the Lahaul Valley.</item>
+        <item>Duration: Usually takes around 4-5 days to complete.</item>
+        <item>Altitude: The highest point of the trek is Hampta Pass at an altitude of approximately 4,270 meters (14,010 feet).</item>
+        <item>Preferred month: Mid-June to mid-October, avoiding the monsoon season.</item>
+    </string-array>
+    <string name="BBQ_Nation_provider">Trekista</string>
+
+
+    <string name="Pin">Pin Parvati</string>
+    <string name="Virasat_location">Manikaran</string>
+    <string-array name="Virasat_highlights">
+        <item>Location: Starts from the village of Barsheni near Manikaran in Himachal Pradesh and crosses the Pin Parvati Pass into the Pin Valley National Park.</item>
+        <item>Duration: Generally takes around 10-12 days to complete.</item>
+        <item>Altitude: The Pin Parvati Pass is at an altitude of approximately 5,319 meters (17,450 feet), making it one of the highest passes in the Indian Himalayas.</item>
+        <item>Preferred month: Mid-June to September, but it is a challenging trek and requires proper acclimatization.</item>
+    </string-array>
+    <string name="Virasat_provider">Trekista</string>
+
+
+    <string name="Chandra">Chandrataal</string>
+    <string name="Jaipur_Adda_location">Spiti Valley</string>
+    <string-array name="Jaipur_Adda_highlights">
+        <item>Location: Starts from Batal in the Spiti Valley and leads to Chandratal Lake.</item>
+        <item>Duration: Usually a 2-3 day trek.</item>
+        <item>Altitude: Chandratal Lake is located at an altitude of around 4,300 meters (14,100 feet).</item>
+        <item>Preferred month: June to September, but it is accessible only during the summer months due to heavy snowfall in winter.</item>
+    </string-array>
+    <string name="Jaipur_Adda_provider">Trekista</string>
+
+
+    <string name="Bhirgu">Bhirgu Lake</string>
+    <string name="ZoloCrust_location">Manali</string>
+    <string-array name="ZoloCrust_highlights">
+        <item>Location: Starts from Gulaba near Manali and leads to Bhrigu Lake.</item>
+        <item>Duration: Typically a 2-3 day trek.</item>
+        <item>Altitude: Bhrigu Lake is located at an altitude of approximately 4,300 meters (14,100 feet).</item>
+        <item>Preferred month: May to June and September to October.
+Chandratal Trek:</item>
+    </string-array>
+    <string name="ZoloCrust_provider">Trekista</string>
+
+
+    <string name="Triund">Triund pass</string>
+    <string name="Rajput_Room_location">Dharmshala</string>
+    <string-array name="Rajput_Room_highlights">
+        <item>Location: Starts from McLeod Ganj near Dharamshala in Himachal Pradesh.</item>
+        <item>Duration: Usually a 1-2 day trek, depending on the starting point.</item>
+        <item>Altitude: Triund is at an altitude of around 2,850 meters (9,350 feet).</item>
+        <item>Preferred month: March to June and September to December, avoiding the monsoon season.</item>
+    </string-array>
+    <string name="Rajput_Room_provider">Trekista</string>
+
+
+
+    <string name="Punji">Cherapunji</string>
+    <string name="Fairmont_location">Meghalaya</string>
+    <string-array name="Fairmont_highlights">
+        <item>Location: In the villages around Cherrapunji and Mawlynnong.</item>
+        <item>Highlights: Trek through dense forests and witness unique living root bridges.</item>
+        <item>Difficulty: Easy to moderate.</item>
+        <item>Elevation: Nearly 314 meters(1,030-ft) from sea level.</item>
+        <item>Preferred month: October to May.</item>
+    </string-array>
+    <string name="Fairmont_provider">Trekista</string>
+
+
+    <string name="Ibis_title">dzukouvalley</string>
+    <string name="Ibis_location">Nagaland</string>
+    <string-array name="Ibis_highlights">
+        <item>Location: Located at the border of Nagaland and Manipur.</item>
+        <item>Highlights: Known for its lush green valleys, seasonal flowers, and streams.</item>
+        <item>Difficulty: Moderate.</item>
+        <item>Elevation: Nearly 2,800 meters(11,000-ft) from sea level.</item>
+        <item>Preffered month: June to September.</item>
+    </string-array>
+    <string name="Ibis_provider">Trekista</string>
+
+
+    <string name="goechala">Goechala</string>
+    <string name="Radission_location">Sikkim</string>
+    <string-array name="Radission_highlights">
+        <item>Location: Starting from Yuksom in Sikkim, leading to the Goechala Pass.</item>
+        <item>Highlights: Offers breathtaking views of Kanchenjunga, the third-highest mountain in the world.</item>
+        <item>Difficulty: Moderate to difficult.</item>
+        <item>Preferred month: April to June, September to November.</item>
+        <item>Elevation: 4,940 meters(16,240-ft) from sea level.</item>
+    </string-array>
+    <string name="Radission_provider">Trekista</string>
+
+
+    <string name="Fall">Nuranang Fall</string>
+    <string name="Meridian__location">Arunachal Pradesh</string>
+    <string-array name="Meridian__highlights">
+        <item>Location: Near Tawang in Arunachal Pradesh.</item>
+        <item>Highlights: Trek through picturesque landscapes to reach the stunning Nuranang Falls.</item>
+        <item>Difficulty: Easy to moderate.</item>
+        <item>Elevation: 100 meters(6,000-ft) from sea level.</item>
+        <item>Preferred month: March to October.</item>
+    </string-array>
+    <string name="Meridian__provider">Trekista</string>
+
+
+    <string name="Selapass">Sela Pass</string>
+    <string name="Oberoi_Palace_location">Arunachal Pradesh</string>
+    <string-array name="Oberoi_Palace_highlights">
+        <item>Location: Near Tawang in Arunachal Pradesh.</item>
+        <item>Highlights: Offers stunning views of the Sela Lake and surrounding mountains.</item>
+        <item>Difficulty: Moderate.</item>
+        <item>Elevation: 4,170 meter(13,700-ft) from sea level.</item>
+        <item>Preferred month: April to June, September to November.</item>
+    </string-array>
+    <string name="Oberoi_Palace_provider">Trekista</string>
+
+
+    <string name="Rajasthan_Palace_title">Singalila</string>
+    <string name="Rajasthan_Palace_location">Sikkim/West-Bengal</string>
+    <string-array name="Rajasthan_Palace_highlights">
+        <item>Location: Starts from Manebhanjan in West Bengal and ends at Phalut.</item>
+        <item>Highlights: Panoramic views of the Himalayan range including Everest and Kanchenjunga.</item>
+        <item>Difficulty: Moderate.</item>
+        <item>Elevation: 3,636 meter(11,929-ft) from sea level.</item>
+        <item>Preferred month: April to June, September to November.</item>
+    </string-array>
+    <string name="Rajasthan_Palace_provider">Trekista</string>
+
+
+
+    <string name="Ayyanar">Ayyanar Falls</string>
+    <string name="Hawamahel_location">Tamil Nadu</string>
+    <string-array name="uv">
+        <item>Location: Near Rajapalayam in the Western Ghats.</item>
+        <item>Highlights: Trek to the Ayyanar Falls and enjoy the beauty of the surrounding hills. The trek offers a chance to explore the rich flora and fauna of the region.</item>
+        <item>Difficulty: Easy to moderate.</item>
+        <item>Elevation: The starting point of the trek is at an elevation of approximately 250 meters (820 feet).</item>
+        <item>Preferred Month: September to March, when the falls are at their best due to the monsoon season.</item>
+    </string-array>
+    <string name="Hawamahel_provider">Trekista</string>
+
+
+    <string name="Kodai">Kodaikanal</string>
+    <string name="Albert_hall_location">Dindigul, Tamilnadu</string>
+    <string-array name="Albert_hall_highlights">
+        <item>Highlights: Trek through forests, waterfalls, and grasslands, with views of the Western Ghats. Popular routes include the Dolphin Nose trek, Green Valley View trek, and the Perumal Peak trek.</item>
+        <item>Difficulty: Easy to moderate.</item>
+        <item>Elevation: Kodaikanal is situated at an elevation of approximately 2,133 meters (6,998 feet).</item>
+        <item>Preferred Month: October to March, when the weather is pleasant.</item>
+    </string-array>
+    <string name="Albert_hall_provider">Trekista</string>
+
+
+    <string name="Kolli">Kolli Hills</string>
+    <string name="Amber_Fort_location">Namakkal, Tamil Nadu</string>
+    <string-array name="Amber_Fort_highlights">
+        <item>Location: Kolli Hills near Namakkal.</item>
+        <item>Highlights: Trek to the Agaya Gangai waterfalls and witness the beauty of the Kolli Hills. The trek also offers panoramic views of the surrounding valleys and forests.</item>
+        <item>Difficulty: Moderate.</item>
+        <item>Elevation: The highest point in Kolli Hills is Mount Kolli at an elevation of approximately 1,450 meters (4,760 feet).</item>
+        <item>Preferred Month: September to March, when the weather is cool and pleasant.</item>
+    </string-array>
+    <string name="Amber_Fort_provider">Trekista</string>
+
+
+    <string name="Kolukkumalai">Kolukkumalai</string>
+    <string name="Nahargarh_Fort_location">Munnar, Western Ghats</string>
+    <string-array name="Nahargarh_Fort_highlights">
+        <item>Location: Near Munnar in the Western Ghats.</item>
+        <item>Highlights: Trek to the highest tea estate in the world, offering stunning views of the surrounding hills and valleys. The trek also provides an opportunity to witness tea-making processes.</item>
+        <item>Difficulty: Moderate.</item>
+        <item>Elevation: The trek starts at an elevation of approximately 1,700 meters (5,577 feet) and reaches up to around 2,170 meters (7,119 feet).</item>
+        <item>Preferred Month: September to May, avoiding the monsoon season.</item>
+    </string-array>
+    <string name="uv">Trekista</string>
+
+
+    <string name="Meghamalai">Meghamalai</string>
+    <string name="Ab">Western Ghats, Tamil Nadu</string>
+    <string-array name="Jantar_Mantar_highlights">
+        <item>Location: Meghamalai in the Western Ghats.</item>
+        <item>Highlights: Trek through dense forests and tea estates, with views of the surrounding hills. The trek offers a peaceful and serene environment, away from the hustle and bustle of city life.</item>
+        <item>Difficulty: Moderate.</item>
+        <item>Elevation: Meghamalai is situated at an elevation of approximately 1,500 meters (4,920 feet).</item>
+        <item>Preferred Month: September to March, when the weather is cool and pleasant.</item>
+    </string-array>
+    <string name="UV">Trekista</string>
+
+
+    <string name="Yercaud">Yercaud</string>
+    <string name="Jal_Mahel_location">Shevaroy Hills, Tamil Nadu</string>
+    <string-array name="Jal_Mahel_highlights">
+        <item>Location: Yercaud in the Shevaroy Hills.</item>
+        <item>Highlights: Trek through forests and coffee plantations, with views of the Eastern Ghats. The trek also offers a chance to visit the Lady Seat viewpoint and the Kiliyur Falls.</item>
+        <item>Difficulty: Easy to moderate.</item>
+        <item>Elevation: Yercaud is situated at an elevation of approximately 1,515 meters (4,970 feet).</item>
+        <item>Preferred Month: October to June, avoiding the monsoon season.</item>
+    </string-array>
+    <string name="Jal_Mahel_provider"> Trekista </string>
+
+</resources>
